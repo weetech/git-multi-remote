@@ -40,5 +40,5 @@ What things you need to install the software and how to install them
 
 ## Stay in touch
 
-- Website - [https://www.weetechsolution.com/](https://www.weetechsolution.com//)
+- Website - [https://www.weetechsolution.com/](https://www.weetechsolution.com/)
 - GitHub - [WeeTech Solution](https://github.com/weetech)
