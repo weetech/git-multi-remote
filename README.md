@@ -1,6 +1,4 @@
-# Git Multi Remote Support
-
-## Description
+# Git Multi Remote CLI
 
 A command-line tool for `managing multiple remote git repositories`. It provides a simple and easy-to-use interface that allows users to `add, switch, delete and list repositories` without interfering with each other. It makes it easy for users to work on `multiple git remote repos simultaneously`, keeping them separate while using the `same local code base`.
 
