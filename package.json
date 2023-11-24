@@ -1,7 +1,7 @@
 {
   "name": "gmr-cli",
   "preferGlobal": true,
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Git Multi Remote CLI is a command-line tool for managing multiple remote git repositories. It provides a simple and easy-to-use interface that allows users to add, switch, delete and list repositories without interfering with each other. It makes it easy for users to work on multiple git remote repos simultaneously, keeping them separate while using the same local code base",
   "repository": {
     "type": "git",
